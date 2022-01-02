@@ -1,0 +1,12 @@
+README.md
+setup.py
+Auto_Kijiji.egg-info/PKG-INFO
+Auto_Kijiji.egg-info/SOURCES.txt
+Auto_Kijiji.egg-info/dependency_links.txt
+Auto_Kijiji.egg-info/entry_points.txt
+Auto_Kijiji.egg-info/requires.txt
+Auto_Kijiji.egg-info/top_level.txt
+auto_kijiji/__init__.py
+auto_kijiji/ad.py
+auto_kijiji/auto_kijiji.py
+auto_kijiji/launcher.py

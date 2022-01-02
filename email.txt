@@ -1,0 +1,328 @@
+Number: 1
+Phrase: Especific Search
+Email: succes-echec@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 2
+Phrase: Especific Search
+Email: nom.prenom@courrier.uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 3
+Phrase: Especific Search
+Email: webinfo@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 4
+Phrase: Especific Search
+Email: Courriel@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 5
+Phrase: Especific Search
+Email: presse@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 6
+Phrase: Especific Search
+Email: rectorat@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 7
+Phrase: Especific Search
+Email: src@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 8
+Phrase: Especific Search
+Email: bibliotheques@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 9
+Phrase: Especific Search
+Email: sve@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 10
+Phrase: Especific Search
+Email: uqamres@netrevolution.com
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 11
+Phrase: Especific Search
+Email: delouest-residences@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 12
+Phrase: Especific Search
+Email: marcoux.louis@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 13
+Phrase: Especific Search
+Email: developpement-durable@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 14
+Phrase: Especific Search
+Email: centre.design@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 15
+Phrase: Especific Search
+Email: galerie@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 16
+Phrase: Especific Search
+Email: evenements@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 17
+Phrase: Especific Search
+Email: larochejoncas@videotron.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 18
+Phrase: Especific Search
+Email: u003Elarochejoncas@videotron.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 19
+Phrase: Especific Search
+Email: info@lacastiglione.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 20
+Phrase: Especific Search
+Email: u003Einfo@lacastiglione.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 21
+Phrase: Especific Search
+Email: lachoraledesintrepides@gmail.com
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 22
+Phrase: Especific Search
+Email: nom.2@courrier.uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 23
+Phrase: Especific Search
+Email: ab123456@ens.uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 24
+Phrase: Especific Search
+Email: bureau.diplomes@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 25
+Phrase: Especific Search
+Email: bureaudurecrutement@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 26
+Phrase: Especific Search
+Email: suivi_offre_admission@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 27
+Phrase: Especific Search
+Email: delaidec@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 28
+Phrase: Especific Search
+Email: actualites@uqam.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 29
+Phrase: Especific Search
+Email: nements@sciences101.ca
+Url: https://uqam.ca
+-------------------------------------------------------------------------------
+
+Number: 30
+Phrase: Especific Search
+Email: collations@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 31
+Phrase: Especific Search
+Email: valorisation-francais@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 32
+Phrase: Especific Search
+Email: esp-admission@esp.umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 33
+Phrase: Especific Search
+Email: studium-soutien@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 34
+Phrase: Especific Search
+Email: vitrine-recherche@cen.umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 35
+Phrase: Especific Search
+Email: recherche@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 36
+Phrase: Especific Search
+Email: transformationdesespaces@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 37
+Phrase: Especific Search
+Email: urgence@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 38
+Phrase: Especific Search
+Email: robert@broofa.com
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 39
+Phrase: Especific Search
+Email: infocovid19@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 40
+Phrase: Especific Search
+Email: bei@sae.umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 41
+Phrase: Especific Search
+Email: j.cordeau-gazaille@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 42
+Phrase: Especific Search
+Email: jeff.heinrich@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 43
+Phrase: Especific Search
+Email: genevieve.omeara@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 44
+Phrase: Especific Search
+Email: secretariat-general@umontreal.ca
+Url: https://umontreal.ca
+-------------------------------------------------------------------------------
+
+Number: 45
+Phrase: Especific Search
+Email: diplomes.fondation@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 46
+Phrase: Especific Search
+Email: valerie.3.patenaude@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 47
+Phrase: Especific Search
+Email: certificat@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 48
+Phrase: Especific Search
+Email: biblio.info@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 49
+Phrase: Especific Search
+Email: sgc@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 50
+Phrase: Especific Search
+Email: t.fuessler@avedas.com
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 51
+Phrase: Especific Search
+Email: ecoledesdirigeants@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 52
+Phrase: Especific Search
+Email: prevention.securite@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 53
+Phrase: Especific Search
+Email: pascale.laniel@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 54
+Phrase: Especific Search
+Email: acces@hec.ca
+Url: http://hec.ca
+-------------------------------------------------------------------------------
+
+Number: 55
+Phrase: Especific Search
+Email: emilie.novales@hec.ca
+Url: http://hec.ca

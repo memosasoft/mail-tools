@@ -1,0 +1,3 @@
+[console_scripts]
+autokijiji = auto_kijiji.launcher:main
+
